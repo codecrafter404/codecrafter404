@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'am a 15yo developer from germany interested in backend development and reverse engineering.
+Her're a few stats:
+![Codecrafter404's GitHub contribution stats](https://github-readme-stats.vercel.app/api?username=codecrafter404&count_private=true)
 <!--
 **codecrafter404/codecrafter404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

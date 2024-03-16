@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-I'm a 16yo developer from germany interested in backend development and reverse engineering.
-Here're a few stats:
-![Codecrafter404's GitHub contribution stats](https://github-readme-stats.vercel.app/api?username=codecrafter404&count_private=true) [![Top Langs](https://github-readme-stats-3cu3p1kf5-codecrafter404.vercel.app/api/top-langs/?username=codecrafter404&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm a 16yo developer from germany interested in **backend development** and **reverse engineering**.
+### Top used languages
+[![Top Langs](https://github-readme-stats-3cu3p1kf5-codecrafter404.vercel.app/api/top-langs/?username=codecrafter404&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+*I love Rust🦀*
+### My contributions👯
+... that _have_ been merged😅
+- [AnkiBridge (Rust)](https://gitlab.com/kerkmann/anki_bridge/-/merge_requests/5)
 <!--
 **codecrafter404/codecrafter404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

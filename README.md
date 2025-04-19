@@ -8,6 +8,7 @@ I'm a 17yo developer from germany interested in **backend development** and **re
 ### My contributions👯
 ... that _have_ been merged😅
 - [AnkiBridge (Rust)](https://gitlab.com/kerkmann/anki_bridge/-/merge_requests/5)
+- [Firefly III Kubernetes Charts](https://github.com/firefly-iii/kubernetes/pull/82)
 <!--
 **codecrafter404/codecrafter404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

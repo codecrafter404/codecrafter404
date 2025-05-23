@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 17yo developer from germany interested in **backend development** and **reverse engineering**.
+I'm a 18yo developer from germany interested in **backend development** and **reverse engineering**.
 ### Top used languages
 [![Top Langs](https://github-readme-stats-3cu3p1kf5-codecrafter404.vercel.app/api/top-langs/?username=codecrafter404&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
